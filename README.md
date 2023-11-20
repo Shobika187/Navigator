@@ -1,4 +1,4 @@
-# Hospital Navigator (Indoor Navigation) with Python 🏥🗺️🐍
+# Navigator (Indoor Navigation) with Python 🏥🗺️🐍
 
 Welcome to the Hospital Navigator (Indoor Navigation) project! In this repository, you will find the code and resources to build an interactive hospital navigation system using Python, Jupyter Notebook, and geojson. This project will help users find their way around a hospital by providing an interactive map and animated path between different locations.
 
